@@ -16,6 +16,7 @@ Second step, I created notebooks and choose previous created cluster. Waited for
 ![Notebook Configuration](https://user-images.githubusercontent.com/119923435/231898014-7e21bd32-80b2-4e9e-afc3-25d98b119c51.PNG)
 
 Third step: in Jupyter notebook, I uploaded Project2_Analysis.ipynb file. I set Jupyter Notebook Kernel as Pyspark. Then, I install all necessary packages pandas version 1.0.3 and matplotlib verison 3.2.1, and import pandas, numpy, matplotlib packages. I also load all data from S3 into a Spark dataframe object as shown below:
+
 ![Capture1](https://user-images.githubusercontent.com/119923435/231903340-c2af3813-9896-4582-8db6-20111a1ed5c0.PNG)
 ![Capture3](https://user-images.githubusercontent.com/119923435/231903344-fa4b2178-383a-409d-a7c1-39913c0c830b.PNG)
 ![Capture](https://user-images.githubusercontent.com/119923435/231903250-de0aa229-04c6-4634-9fdb-68eeef676619.PNG)
